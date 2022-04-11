@@ -10,22 +10,30 @@ The performance of reproduction rate prediction is measured mean squared error (
 
 ## Acknowledgements
 Generally we work with time series datasets as a supervised learning problem.
-Some of the important things that it's better we know.
+Some of the important things that it's better you know.
 
+ - [Time series as Suppervised Learning](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
  - [Univariate / Multivariate](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/)
- - [One step / target step](https://machinelearningmastery.com/time-series-forecasting-supervised-learning/)
+ - [Single step / Multi step](https://machinelearningmastery.com/time-series-forecasting-supervised-learning/)
  - [Stationary / Non Stationary](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
  - [Cross Validation in Time Series](https://www.analyticsvidhya.com/blog/2019/12/6-powerful-feature-engineering-techniques-time-series/#h2_2)
- - [ACF plot]()
- - [Lag observation]()
+ - [ACF Plot](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/)
+ - [Lag observation](https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/)
  - [Feature Selection](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
  - [Handle Missing value](https://medium.com/@kyawsawhtoon/a-guide-to-knn-imputation-95e2dc496e)
+ - [Learning Curve](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html)
+ - [Long Short-Term Memory layer](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
+ - [Recurrent Neural Networks](https://www.tensorflow.org/guide/keras/rnn)
+ - [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ - [Support Vector Regression](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
+ - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+ 
 
 
-•	AF function
 
 
-•	Ml models
+
+
 	
 
 ## Description of Folders
@@ -57,4 +65,55 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 - Additional browser support
 
 - Add more integrations
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mina-moeini)
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Authors
+
+- [@katherinepeterson](https://www.github.com/octokatherine)
+
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
 
