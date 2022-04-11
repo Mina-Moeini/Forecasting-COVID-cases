@@ -77,7 +77,7 @@ I'm a full stack developer...
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mina-moeini)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-moeini)
 
 
 
@@ -89,31 +89,4 @@ I'm a full stack developer...
 ## Authors
 
 - [@katherinepeterson](https://www.github.com/octokatherine)
-
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
 
