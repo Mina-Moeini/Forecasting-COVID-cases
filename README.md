@@ -33,7 +33,7 @@ The important concepts that it's better you know.
 
 ## Description of Folders
 
- - [```Datacleaning```]()- Import raw dataset/Missing value/Correlation/Feature selection/Fill missing value with KNN
+ - [```Datacleaning```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/Datacleaning.ipynb)- Import raw dataset/Missing value/Correlation/Feature selection/Fill missing value with KNN
  - [```best-parameters```]()- Find best parameters for ML models with ```RandomizedSearchCV()```
  - [```Forecasting_DL```]() - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step / Result Comparision
  - [```Forecasting_ML```]() - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step 
