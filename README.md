@@ -18,9 +18,9 @@ The important concepts that it's better you know.
  - [Stationary / Non Stationary](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
  - [Cross Validation in Time Series](https://www.analyticsvidhya.com/blog/2019/12/6-powerful-feature-engineering-techniques-time-series/#h2_2)
  - [ACF Plot](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/)
- - [Lag observation](https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/)
+ - [Lag Observation](https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/)
  - [Feature Selection](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
- - [Handle Missing value](https://medium.com/@kyawsawhtoon/a-guide-to-knn-imputation-95e2dc496e)
+ - [Handle Missing Value](https://medium.com/@kyawsawhtoon/a-guide-to-knn-imputation-95e2dc496e)
 
  
 
@@ -37,7 +37,7 @@ The important concepts that it's better you know.
  - [```best-parameters```]()- Find best parameters for ML models with ```RandomizedSearchCV()```
  - [```Forecasting_DL```]() - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step / Result Comparision
  - [```Forecasting_ML```]() - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step 
- - [```learning_curve```]() - plot of train and test scores for each model
+ - [```learning_curve```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/learning_curve.py) - plot of train and test scores for each model
  
 ## Roadmap
 
@@ -49,7 +49,7 @@ The important concepts that it's better you know.
 ## Documentation
 
  - [Learning Curve](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html)
- - [Long Short-Term Memory layer](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
+ - [Long Short-Term Memory Layer](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
  - [Recurrent Neural Networks](https://www.tensorflow.org/guide/keras/rnn)
  - [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
  - [Support Vector Regression](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
@@ -59,10 +59,10 @@ The important concepts that it's better you know.
 ## 🔗 Contact
 
 |||
-|----|-----|
+|-|-|
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.moeini67@gmail.com) |[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-moeini)
 
 ## Authors
 
-- [@Mina-Moeini](https://github.com/Mina-Moeini)
+ [@Mina-Moeini](https://github.com/Mina-Moeini)
 
