@@ -37,7 +37,7 @@ The important concepts that it's better you know.
  - [```best-parameters```]()- Find best parameters for ML models with ```RandomizedSearchCV()```
  - [```Forecasting_DL```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/Forecasting_DL.ipynb) - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step / Result Comparision
  - [```Forecasting_ML```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/Forecasting_ML.ipynb) - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step 
- - [```learning_curve```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/learning_curve.py) - plot of train and test scores for each model
+ - [```learning_curve```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/learning_curve.ipynb) - plot of train and test scores for each model
  
 ## Roadmap
 
