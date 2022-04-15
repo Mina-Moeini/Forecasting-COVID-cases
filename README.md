@@ -34,7 +34,7 @@ The important concepts that it's better you know.
 ## Description of Folders
 
  - [```Datacleaning```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/Datacleaning.ipynb)- Import raw dataset/Missing value/Correlation/Feature selection/Fill missing value with KNN
- - [```best-parameters```]()- Find best parameters for ML models with ```RandomizedSearchCV()```
+ - [```best-parameters```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/best_parameters.ipynb)- Find best parameters for ML models with ```RandomizedSearchCV()```
  - [```Forecasting_DL```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/Forecasting_DL.ipynb) - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step / Result Comparision
  - [```Forecasting_ML```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/Forecasting_ML.ipynb) - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step 
  - [```learning_curve```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/learning_curve.ipynb) - plot of train and test scores for each model
