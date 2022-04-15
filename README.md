@@ -1,5 +1,5 @@
 
-# Forecasting COVID cases with ML/DL models
+# Forecasting COVID cases with ML/DL models(France)
 
 This worldwide pandemic impacts hundreds of thousands of people and causes thousands of deaths each day.
 Predicting the number of new cases (you can do the same for new deaths too) during this period can be a useful step in predicting the costs and facilities required in the future. 
