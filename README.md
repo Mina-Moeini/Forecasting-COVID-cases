@@ -39,11 +39,7 @@ The important concepts that it's better you know.
  - [```Forecasting_ML```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/Forecasting_ML.ipynb) - Import dataset/ checking for stationary / Split Train-Test / Convert to supervised / Scale Data / Define Models and fit / MSE / Predict next step 
  - [```learning_curve```](https://github.com/Mina-Moeini/Forecasting-COVID-cases/blob/master/learning_curve.ipynb) - plot of train and test scores for each model
  
-## Roadmap
 
-- Additional browser support
-
-- Add more integrations
 
 
 ## Documentation
